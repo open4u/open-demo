@@ -12,7 +12,7 @@ Rick，Jenkins 中文社区发起人。具有10年以上的一线的研发经历
 
 ## 组织方
 
-Open for You 社区(https://github.com/open4u/)，以开源的形式致力于为每一位开源爱好者、开源项目贡献者提供专业的开源支持和服务。
+[KubeSphere 社区](https://github.com/kubesphere/)，以开源的形式致力于为每一位开源爱好者、开源项目贡献者提供专业的开源支持和服务。
 
 ## 项目计划
 
