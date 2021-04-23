@@ -8,7 +8,7 @@ Web 类的开源项目通常是需要通过在线 demo 演示环境来让潜在�
 
 ## 项目发起人
 
-Rick，Jenkins 中文社区发起人。具有10年以上的一线的研发经历，热衷于开源技术的布道。同时，还是 CDF（持续交付基金会）的 Ambassador，以及 Jenkins 社区的中国区媒体联系人，Jenkins 中文本地化 SIG Leader。
+Rick，KubeSphere DevOps SIG 以及 Advocacy and Outreach SIG leader，Jenkins 中文社区发起人。具有10年以上的一线的研发经历，热衷于开源技术的布道。同时，还是 CDF（持续交付基金会）的 Ambassador，以及 Jenkins 社区的中国区媒体联系人，Jenkins 中文本地化 SIG Leader。
 
 ## 组织方
 
@@ -43,19 +43,8 @@ demo 系统要支持自定义域名或子域名。
 
 ### 参与者
 
-不需要自行提供运行环境的经济支出，也无需花费精力对环境进行常规的维护。通过集中式的 demo 环境演示，有助于对方的项目推广。
-
-### 赞助方
-
-加 logo 展示到赞助方页面，并加对应企业或则个人的基本介绍。赞助方，可以很清晰地看到，我们所接受捐赠的分配和使用记录。
-
-战略级的赞助方，可以在所有的 demo 系统页面添加如下的文案：`Powered by Kubesphere`。需要注意的是，这里所要加的赞助商的项目必须是开源的，需要托管在 GitHub 或者 Gitee 上，而且，所添加的链接也应该是代码托管平台的地址。
-
-### 组织方
-
-希望能帮助国内的开源项目作者或者社区提供相应支持，建立国内的开源生态，在业界形成一定的影响力（reputation）。
-
-关于组织形式，由 [Open for You](https://github.com/open4u/) 社区发起并主办，联合 Jenkins 中文社区、Kubesphere 社区。同时，我们也积极地寻求国内外其他社区、个人的支持。关于 Open for You 社区后续的发展规划，希望能得到国内对开源关注的企业的赞助支持，当接受捐助的金额可以注册公司后，会注册一家不以盈利为目的的公司，专门从事服务开源项目、个人、社区的业务。将公司的账务、规章制度、捐助明细完全公开。
+* 不需要自行提供运行环境的经济支出，也无需花费精力对环境进行常规的维护。通过集中式的 demo 环境演示，有助于对方的项目推广。
+* 可以使用 KubeSphere DevOps 进行项目的构建、自动发布
 
 ## 目标与计划
 
@@ -65,8 +54,6 @@ demo 系统要支持自定义域名或子域名。
 3. 打造国际化的平台，积极地和国外的社区合作
 
 关于第一步的具体操作上，首先邀请5～15个开源项目加入；然后，对外公布我们的平台会试运营一个月的时间，收集更多的反馈并酌情改善；最后，接受外部项目的直接申请，通过相应的流程后接纳或者给出拒绝理由。
-
-联合 [Kubesphere](http://github.com/kubesphere/) 社区共同发布该项目，而且也是 Jenkins 中文社区和 Kubesphere 社区合作的重点项目。
 
 ## 运维
 
@@ -89,6 +76,8 @@ demo 系统要支持自定义域名或子域名。
 
 ## 备选项目
 
+* [martin](https://gitee.com/MARTIN-88/martin) 基于 Spring Cloud 的微服务框架
+* [halo](https://github.com/halo-dev/halo) 基于 Java 的博客系统
 * [Jenkins](https://github.com/jenkinsci/jenkins)
 * [开源团队协作沟通](https://gitee.com/xiweicheng/tms)
 * [Jenkins Custom Distribution Service](https://github.com/jenkinsci/custom-distribution-service/)
